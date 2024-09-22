@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Job Board App](https://job-board-api-84s9.onrender.com)
 
-- 🌱 I’m currently learning **React, TypeScript and Python**
+- 🌱 I’m currently learning **React, TypeScript and MongoDB**
 
 - 👨‍💻 All of my projects are available on my [Portfolio](https://lelly-99.github.io/)
 
