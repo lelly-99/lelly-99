@@ -3,7 +3,7 @@
 <hr>
 <br>
 
-- 🔭 I’m currently working on [Job Board App](https://job-board-api-84s9.onrender.com)
+- 🔭 I’m currently working on [Job Board App](https://github.com/tkmaile96/job-board-app)
 
 - 🌱 I’m currently learning **React, TypeScript and MongoDB**
 
