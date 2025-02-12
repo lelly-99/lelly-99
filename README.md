@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [Job Board App](https://github.com/tkmaile96/job-board-app)
 
-- 🌱 I’m currently learning **React, TypeScript and MongoDB**
-
-- 👨‍💻 All of my projects are available on my [Portfolio](https://lelly-99.github.io/)
+- 👨‍💻 My projects are available on my [Portfolio](https://lelly-99.github.io/)
 
 - 📫 How to reach me **leswifil@gmail.com**
 
